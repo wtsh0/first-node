@@ -1,0 +1,15 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "このリポジトリは https://www.webprofessional.jp/beginners-guide-node-package-manager/ を利用したnpm入門になります",
+  "main": "index.js",
+  "dependencies": {
+    "uglify-js": "^3.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
