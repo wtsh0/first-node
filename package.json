@@ -4,7 +4,7 @@
   "description": "このリポジトリは https://www.webprofessional.jp/beginners-guide-node-package-manager/ を利用したnpm入門になります",
   "main": "index.js",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.8.2"
   },
   "devDependencies": {},
   "scripts": {
