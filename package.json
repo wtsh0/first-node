@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "このリポジトリは https://www.webprofessional.jp/beginners-guide-node-package-manager/ を利用したnpm入門になります",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "underscore": "^1.8.2"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
