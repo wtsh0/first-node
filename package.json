@@ -4,8 +4,16 @@
   "description": "このリポジトリは https://www.webprofessional.jp/beginners-guide-node-package-manager/ を利用したnpm入門になります",
   "main": "index.js",
   "dependencies": {
+    "ajv": "^6.5.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
-    "underscore": "^1.8.2"
+    "moment": "^2.22.2",
+    "mongoose": "^5.3.4",
+    "request": "^2.88.0",
+    "underscore": "^1.8.2",
+    "webpack": "^4.22.0"
   },
   "devDependencies": {},
   "scripts": {
